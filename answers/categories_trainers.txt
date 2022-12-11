@@ -1,0 +1,8 @@
+trainers CATEGORIES
+
++-------------+------+------+-----+---------+-------+
+| Field       | Type | Null | Key | Default | Extra |
++-------------+------+------+-----+---------+-------+
+| trainerID   | int  | NO   | PRI | NULL    |       |
+| trainername | text | YES  |     | NULL    |       |
++-------------+------+------+-----+---------+-------+
